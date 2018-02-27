@@ -24,9 +24,9 @@ namespace Amnesia
         public override void DefsLoaded()
         {
             ForgetBackstories = Settings.GetHandle<bool>("forgetBackstories", "Forget Most Backstories", "Causes most of the backstories in the game to be generated as Amnesia. Has no effect on already generated pawns.", true);
-            ForgetForcedBackstories = Settings.GetHandle<bool>("forgetForcedBackstories", "Also Forget Forced Backstories", "If Forget Most Backstories is enanbled, this option will also remove the backstories of 'special' pawns. Curretly not working.", true);
+            ForgetForcedBackstories = Settings.GetHandle<bool>("forgetForcedBackstories", "Also Forget Forced Backstories", "If Forget Most Backstories is enanbled, this option will also remove the backstories of 'special' pawns.", true);
             ForgetTraits = Settings.GetHandle<bool>("forgetTraits", "Forget Most Traits", "Makes newly generated pawns to have no traits other than the ones required by thier backstories.", true);
-            ForgetForcedTraits = Settings.GetHandle<bool>("forgetForcedTraits", "Also Forget Forced Backstories", "If 'Forget Most Traits' is enabled, this option forces backstory traits to be removed.", true);
+            ForgetForcedTraits = Settings.GetHandle<bool>("forgetForcedTraits", "Also Forget Forced Traits", "If 'Forget Most Traits' is enabled, this option forces backstory traits to be removed.", true);
         }
 
         public override void SettingsChanged()

@@ -3,3 +3,8 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFinderAmnesia\Sou
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFinderAmnesia\Assemblies\Amnesia.dll.config
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFinderAmnesia\Assemblies\Amnesia.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFinderAmnesia\Source\Amnesia\obj\Debug\Amnesia.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFingerAmnesia\Assemblies\Amnesia.dll.config
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFingerAmnesia\Assemblies\Amnesia.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFingerAmnesia\Source\Amnesia\obj\Debug\Amnesia.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFingerAmnesia\Source\Amnesia\obj\Debug\Amnesia.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\9thFingerAmnesia\Source\Amnesia\obj\Debug\Amnesia.dll
